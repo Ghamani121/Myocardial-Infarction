@@ -109,7 +109,7 @@ export default function Header() {
           </NavLink>
         </Popover.Group>
         <div className="hidden lg:flex lg:flex-1 lg:justify-end">
-          <a target='_blank' rel="noreferrer" href="https://github.com/MrSagarBiswas/E-Health-Management-System" className="text-sm font-semibold leading-6 text-gray-900">
+          <a target='_blank' rel="noreferrer" href="https://github.com/Ghamani121/Myocardial-Infarction" className="text-sm font-semibold leading-6 text-gray-900">
             GitHub <span aria-hidden="true">&rarr;</span>
           </a>
         </div>
