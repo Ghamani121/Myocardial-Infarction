@@ -15,7 +15,7 @@ mongoose.connect(process.env.MONGODB_URI, { useNewUrlParser: true });
 const profileSchema = new mongoose.Schema({
     name: new mongoose.Schema({
         FName: String,
-        LName: String,
+        LName: String,  
     }),
     mobile: Number,
     gender: {
